@@ -1,3 +1,6 @@
+# The CTF
+https://crackmes.one/crackme/69bd737bf2d49d8512f64adc
+
 # The validation logic:
 Given a serial key input XXXX-YYYY-ZZZZ-WWWW
 the program seperate it to the following parts
